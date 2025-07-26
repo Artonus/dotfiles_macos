@@ -5,6 +5,4 @@ autoload -Uz compinit
 compinit
 # End of Docker CLI completions
 
-# Added by Windsurf
-export PATH="/Users/bartek/.codeium/windsurf/bin:$PATH"
 fastfetch
