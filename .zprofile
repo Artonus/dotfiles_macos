@@ -10,3 +10,5 @@ alias config='/usr/bin/git --git-dir=/Users/bartek/.cfg/ --work-tree=/Users/bart
 export ANDROID_HOME=/Users/$USER/Library/Android/sdk
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 alias ll='ls -al'
+alias ..='cd ..'
+alias vim='nvim'
